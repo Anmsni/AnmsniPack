@@ -6,4 +6,3 @@ Installing the pack is easy. Open the file on your device that has MC Bedrock in
 
 # Notes
 NOTE: does not come with MC Bedrock.
-View Status

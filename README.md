@@ -1,4 +1,4 @@
-# This is a pack for MC(Minecraft) Bedrock edition.
+# This is a pack for _MC(Minecraft)_ Bedrock edition.
 It switches up the menu a bit, changes sword height and a bit more.
 
 # Images
@@ -8,7 +8,7 @@ It switches up the menu a bit, changes sword height and a bit more.
 
 
 # Installing
-1. Download the [AnmsniPack.mcpack](AnmsniPack.mcpack) file.
+1. Download the [_AnmsniPack.mcpack_](AnmsniPack.mcpack) file.
 2. Open the file on your device with MC Bedrock.
 
 # Notes

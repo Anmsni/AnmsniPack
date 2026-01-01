@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "The anmsni pack",
+        "name": "This brings minor tweaks to the game",
+        "uuid": "6cc3bbd7-47d3-4c7e-99b8-e906e26294ec",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 21, 60 ]
+    },
+    "modules": [
+        {
+            "description": "Example vanilla resource pack",
+            "type": "resources",
+            "uuid": "c08681cd-317c-4946-a492-17790266ccf0",
+            "version": [0, 0, 1]
+        }
+    ]
+}

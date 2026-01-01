@@ -13,3 +13,4 @@ It switches up the menu a bit, changes sword height and a bit more.
 
 # Notes
 NOTE: does not come with MC Bedrock.
+The Ui file is to large to be on github.
